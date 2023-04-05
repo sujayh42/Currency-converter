@@ -743,6 +743,6 @@ int main()
     default:
         break;
     }
-    cout<<"ALL THE ABOVE DATA IS FOR THE CONVERSION RATES ON 29 JAN 2023!!!!!"
+    cout<<"ALL THE ABOVE DATA IS FOR THE CONVERSION RATES ON 29 JAN 2023!!!!!";
     return 0;
 }
